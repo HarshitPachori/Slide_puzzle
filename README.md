@@ -32,4 +32,4 @@ Weather Screen.
  4. Try it out.
 
 
-<img src ="flutter_puzzle_app.png" width ="200">
+<img src ="puzzle_app_img.png" width ="200">
